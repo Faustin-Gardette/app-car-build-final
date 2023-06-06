@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66005445.css",
+    "main.js": "/static/js/main.d62facdc.js",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.c5eb70982e90502d0d01.ttf",
+    "static/media/Rubik-Medium.ttf": "/static/media/Rubik-Medium.115acab02aed19275f71.ttf",
+    "index.html": "/index.html",
+    "main.66005445.css.map": "/static/css/main.66005445.css.map",
+    "main.d62facdc.js.map": "/static/js/main.d62facdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66005445.css",
+    "static/js/main.d62facdc.js"
+  ]
+}
